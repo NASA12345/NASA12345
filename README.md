@@ -1,11 +1,40 @@
-<h1 align="center">Hi 👋, I'm Nayan Jindal</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" alt="cover_img"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasa12345&label=Profile%20views&color=0e75b6&style=flat" alt="nasa12345" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9ECF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Creative+Problem+Solver;Open+Source+Enthusiast;Building+Digital+Experiences" alt="Typing SVG" />
+  
+  <p align="center">
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/NASA12345/count.svg" />
+  </p>
 
-# 💫 About Me:
-💻 Passionate developer exploring MERN Stack and machine learning.</br>
-⚙️ I love building efficient and real-world solutions.</br>
-🚀 Always learning, always coding — welcome to my GitHub!
+  <!-- Snake animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TusharSachdeva29/TusharSachdeva29/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TusharSachdeva29/TusharSachdeva29/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/TusharSachdeva29/TusharSachdeva29/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<h1 align="center">
+  Hi, I'm Nayan Jindal
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="35px" height="35px">
+</h1>
+
+## 🚀 About Me
+
+<img align="right" alt="coding" width="300" height="200" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="25px"> I'm a **Full Stack Developer** who loves building web applications and exploring new technologies.
+
+- 🌱 Learning **DevOps , scalability and Web3/Blockchain**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Development**, **DSA/CP**, **ML/DL** or **Tech Career**
+- 🎯 Goal: Contribute more to Open Source
+- 📫 Reach me at: [nayan11404@gmail.com](mailto:nayan11404@gmail.com)
+- 😄 Pronouns: I prefer he/him
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nayan-jindal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jindal__nayan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jindal_nayan) 
