@@ -33,6 +33,7 @@
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development**, **DSA/CP**, **ML/DL** or **Tech Career**
 - 🎯 Goal: Contribute more to Open Source
+- 💼 Portfolio: <a href="https://nasaa11.vercel.app/">Dive Here!</a>
 - 📫 Reach me at: [nayan11404@gmail.com](mailto:nayan11404@gmail.com)
 - 😄 Pronouns: I prefer he/him
 
