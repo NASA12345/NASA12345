@@ -12,9 +12,9 @@
 
   <!-- Snake animation -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TusharSachdeva29/TusharSachdeva29/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TusharSachdeva29/TusharSachdeva29/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/TusharSachdeva29/TusharSachdeva29/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NASA12345/NASA12345/output/github-snake-dark.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NASA12345/NASA12345/output/github-snake.svg#gh-light-mode-only">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/NASA12345/NASA12345/output/github-snake.svg">
   </picture>
 </div>
 
