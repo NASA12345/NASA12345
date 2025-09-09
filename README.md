@@ -7,7 +7,9 @@
   
   <p align="center">
     Visitor count<br>
-    <img src="https://profile-counter.glitch.me/NASA12345/count.svg" />
+    <div align="center" style="display: flex; align-items: center; justify-content: center;">
+     <img src="https://komarev.com/ghpvc/?username=NASA12345&style=for-the-badge">
+</div>
   </p>
 
   <!-- Snake animation -->
