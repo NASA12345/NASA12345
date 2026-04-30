@@ -31,7 +31,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="25px"> I'm a **Full Stack Developer** who loves building web applications and exploring new technologies.
 
-- 🌱 Learning **DevOps , scalability and Web3/Blockchain**
+- 🌱 Learning **DevOps , scalability and ML/DL**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development**, **DSA/CP**, **ML/DL** or **Tech Career**
 - 🎯 Goal: Contribute more to Open Source
