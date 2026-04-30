@@ -49,9 +49,15 @@
 ![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Loki](https://img.shields.io/badge/loki-0A1A2F.svg?style=for-the-badge&logo=grafana&logoColor=white)
 # 📊 GitHub Stats:
+<img
+    align="left"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=NASA12345&theme=light"
+    alt="NASA12345"
+    width="450"
+  />
 ![](https://github-readme-stats.vercel.app/api?username=NASA12345&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NASA12345&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=NASA12345&theme=default&hide_border=false)
+
 
 
 
